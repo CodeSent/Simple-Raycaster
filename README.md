@@ -18,4 +18,4 @@ Right arrow  - Rotate camera to the right
 
 # Disclamer 
 
-This engine is not built very well. I am using this to learn __C++__, __SFML__ and __Raycasting__, so you may find unnessecary lines of code in this project.
+This engine is not built very well. I am using this to learn __C++__, __SFML__ and __Raycasting__, so you may find unnessecary lines of code in this project. Also this is my first properly built __GitHub__ Repo, and I still dont know how to use this software.
