@@ -1,5 +1,5 @@
 # Simple Raycaster
-This is a simple Raycast Engine used by alot of old games, famously Wolfenstine 3D. built using __SFML__, it comes with textured wall rendering and a textured floor.
+This is a simple Raycast Engine used by alot of old games, famously Wolfenstine 3D. built using __SFML__ and __Visual Studio__, it comes with textured wall rendering and a textured floor.
 
 ## controls:
 
