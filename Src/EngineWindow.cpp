@@ -14,7 +14,7 @@ EngineWindow::EngineWindow(int Height, int Width, const char* Title)
     Window = &W;
     
     Ma.Init(Width, Height);
-    Plr.InitPlayer(100, 60, 0,&Ma);
+    Plr.InitPlayer(100, 75, 0,&Ma);
     Engine.InitEngine(&Ma, &Plr, { float(Width),float(Height) }, 60);
     Floor.Setup(Ma.Floor, { unsigned int(Width),unsigned int(Height) },Ma.MapSizeF);
     GameLoop();

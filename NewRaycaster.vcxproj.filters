@@ -402,5 +402,11 @@
     <Image Include="Textures\Wood.png">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="Textures\MetalFloor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Textures\PngFloor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

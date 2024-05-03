@@ -265,6 +265,8 @@
     <Image Include="Textures\Brick.png" />
     <Image Include="Textures\BrickTexture.png" />
     <Image Include="Textures\Cobblestone.png" />
+    <Image Include="Textures\MetalFloor.png" />
+    <Image Include="Textures\PngFloor.png" />
     <Image Include="Textures\Wood.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
